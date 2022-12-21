@@ -1,2 +1,3 @@
-const response = getResponseFromAPI();
-console.log(response instanceof Promise);
+const getResponseFromAPI = new Promise((resolve, reject) => {
+
+});
