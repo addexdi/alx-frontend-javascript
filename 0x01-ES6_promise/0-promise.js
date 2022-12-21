@@ -1,3 +1,3 @@
-const getResponseFromAPI = new Promise((resolve, reject) => {
-
+const getResponseFromAPI = new Promise(function(_resolve, _reject) {
+    
 });
